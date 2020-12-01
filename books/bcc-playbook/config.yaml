@@ -1,0 +1,5 @@
+title: "BCC Playbook"
+summary: "BCC tools の使い方を解説し、余裕があれば内部的な点（kprobe/tracepointほかの解説含む）を説明します。BCC toolsは今や100種類近くあるのですが... 少しずつ。"
+topics: [bcc, ebpf, python, linux]
+published: true
+price: 0
