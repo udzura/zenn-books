@@ -1,0 +1,9 @@
+title: "The Namespace Book"
+summary: "手を動かして理解する、8つのLinux Namespace"
+topics: ["Linux", "Container"]
+published: true
+price: 0 # TODO: 5000兆円で売る
+
+chapters:
+  - 00-pretext
+  - 01-uts
